@@ -8,6 +8,8 @@ namespace MyConsoleApp
         {
             MessageWriter MyWriter = new MessageWriter();
             MyWriter.Write("Hello Writer!");
+
+            
         }
     }
 }
